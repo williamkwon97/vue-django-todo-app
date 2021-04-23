@@ -2,4 +2,4 @@
 
 Todo app using Django as backend and Vue.js for the frontend. Its interface allows to update the status of a task from not performed to done.
 
-<img src="demo.png" alt="Vuengo app"/>
+![](demo.jpeg)
