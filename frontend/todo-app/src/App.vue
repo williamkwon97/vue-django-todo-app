@@ -10,7 +10,7 @@
 </template>
 
 <style lang="scss">
-@import "../node_modules/bulma";
+@import '~bulma';
 
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
